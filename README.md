@@ -12,5 +12,5 @@
 <img src="https://github.com/Qyt0109/ControlMouseWithHandTracking/blob/main/Pic/2.jpg">
 </li>
 </ul>
-<h4>Have fun with some games:<h4>
-<img src="https://github.com/Qyt0109/ControlMouseWithHandTracking/blob/main/Pic/3.JPG">
+<h2>Have fun with some games!</h2>
+<img src="https://github.com/Qyt0109/ControlMouseWithHandTracking/blob/main/Pic/3.jpg">
