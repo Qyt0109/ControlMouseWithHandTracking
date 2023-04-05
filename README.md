@@ -13,4 +13,4 @@
 </li>
 </ul>
 <h4>Have fun with some games:<h4>
-<img src="https://github.com/Qyt0109/ControlMouseWithHandTracking/blob/main/Pic/3.jpg">
+<img src="https://github.com/Qyt0109/ControlMouseWithHandTracking/blob/main/Pic/3.JPG">
